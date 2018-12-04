@@ -1,3 +1,3 @@
 compiler: 
   - cpp
-script : new_test_dictionnary.cpp -o a.exe
+script : ./new_test_dictionnary/new_test_dictionnary.cpp -o a.exe
