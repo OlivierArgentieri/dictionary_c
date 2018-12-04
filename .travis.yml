@@ -1,3 +1,5 @@
+language: cpp
+
 compiler: 
-  - cpp
+  - vc
 script : ./new_test_dictionnary/new_test_dictionnary.cpp -o a.exe
